@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://scontent.fdac177-2.fna.fbcdn.net/v/t39.30808-6/667326766_122162250860961365_249566114887928207_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=tBZZu-Xu73QQ7kNvwGyD_og&_nc_oc=AdoCYGQ7dkHRgp1V4bgAHlM2RuhD-dpuBJdp-40zMNryvsV-jnBtkOQne-Jq--ENUdM&_nc_zt=23&_nc_ht=scontent.fdac177-2.fna&_nc_gid=C9Gg3nBFrR1UlZHoen1bUA&_nc_ss=7a3a8&oh=00_Af22dpeZ4DEclcRTJMX0qiPiFOP6NM9Okjp_3d-XvB0KtQ&oe=69DB316E"  />
+  <img height="250" src="https://scontent.fdac177-2.fna.fbcdn.net/v/t39.30808-6/667326766_122162250860961365_249566114887928207_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=tBZZu-Xu73QQ7kNvwGyD_og&_nc_oc=AdoCYGQ7dkHRgp1V4bgAHlM2RuhD-dpuBJdp-40zMNryvsV-jnBtkOQne-Jq--ENUdM&_nc_zt=23&_nc_ht=scontent.fdac177-2.fna&_nc_gid=C9Gg3nBFrR1UlZHoen1bUA&_nc_ss=7a3a8&oh=00_Af22dpeZ4DEclcRTJMX0qiPiFOP6NM9Okjp_3d-XvB0KtQ&oe=69DB316E"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/afsana-laz-seo-expert/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="afsana.laz@gmail.com" target="_blank">
+  <a href="mailto:afsana.laz@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a passionate Front-End Developer dedicated to building beautiful, responsive, and high-performance web applications. With a strong foundation in HTML, CSS, JavaScript, and React. I love turning complex ideas into intuitive digital experiences.<br><br>- 🔭 I’m working as a Front-end-developer<br>- 📚 I'm currently learning React<br>- 🔭 I’m currently working on React-based web apps and improving my animation skills.<br>- ⚡  I’m open to collaborating on GitHub and LinkedIn<br>✨Reach out to me: afsana.laz@gmail.com</p>
+<p align="left">I'm a passionate Front-End Developer dedicated to building beautiful, responsive, and high-performance web applications. With a strong foundation in HTML, CSS, JavaScript, and React. I love turning complex ideas into intuitive digital experiences.<br><br>- 🔭 I’m working as a Front-end-developer<br>- 📚 I'm currently learning React<br>- 🔭 I’m currently working on React-based web apps and improving my animation skills.<br>- ⚡  I’m open to collaborating on GitHub and LinkedIn<br>✨Reach out to me: <a href="mailto:afsana.laz@gmail.com">afsana.laz@gmail.com</a></p>
 
 ###
 
@@ -65,19 +65,8 @@
 
 ###
 
-<h3 align="left">🔥   My Code :</h3>
-
-const afsanaLaz = {
-  pronouns: "she/her",
-  code: ["JavaScript", "React", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Next", "Node.js", "Daisy UI"], 
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-    coorganizer: "University of Dhaka",
-    speaker: "English",
-    learner: "Web Developer" 
-  },
-  challenge: "I am doing Code challenge focused on React and JavaScript"
-}
+<h3 align="left">🔥   My Code :<br><br>
+<pre>const afsanaLaz = { <br>pronouns: "she/her", <br>code: ["JavaScript", "React", "HTML", "CSS", "Tailwind CSS"], <br>tools: ["React", "Next", "Node.js", "Daisy UI"],<br> architecture: ["microservices", "event-driven", "design system pattern"], <br>techCommunities: { <br>coorganizer: "University of Dhaka", speaker: "English", learner: "Web Developer" }, <br>challenge: "I am doing Code challenge focused on React and JavaScript"}
+</pre></h3>
 
 ###

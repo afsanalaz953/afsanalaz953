@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="250" src="https://scontent.fdac177-2.fna.fbcdn.net/v/t39.30808-6/667326766_122162250860961365_249566114887928207_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=tBZZu-Xu73QQ7kNvwGyD_og&_nc_oc=AdoCYGQ7dkHRgp1V4bgAHlM2RuhD-dpuBJdp-40zMNryvsV-jnBtkOQne-Jq--ENUdM&_nc_zt=23&_nc_ht=scontent.fdac177-2.fna&_nc_gid=C9Gg3nBFrR1UlZHoen1bUA&_nc_ss=7a3a8&oh=00_Af22dpeZ4DEclcRTJMX0qiPiFOP6NM9Okjp_3d-XvB0KtQ&oe=69DB316E"  />
+<div>
+  <img width="100%"  src="https://scontent.fdac177-2.fna.fbcdn.net/v/t39.30808-6/667326766_122162250860961365_249566114887928207_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=tBZZu-Xu73QQ7kNvwGyD_og&_nc_oc=AdoCYGQ7dkHRgp1V4bgAHlM2RuhD-dpuBJdp-40zMNryvsV-jnBtkOQne-Jq--ENUdM&_nc_zt=23&_nc_ht=scontent.fdac177-2.fna&_nc_gid=C9Gg3nBFrR1UlZHoen1bUA&_nc_ss=7a3a8&oh=00_Af22dpeZ4DEclcRTJMX0qiPiFOP6NM9Okjp_3d-XvB0KtQ&oe=69DB316E"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
